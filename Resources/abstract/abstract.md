@@ -1,4 +1,6 @@
-# TITLE
+# Quantitative description of the wobbling properties in odd-$A$ nuclei through a semi-classical approach
+
+Title: Quantitative description of the wobbling properties in odd-$A$ nuclei through a semi-classical approach
 
 ## Abstract
 
