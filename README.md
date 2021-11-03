@@ -2,6 +2,9 @@
 
 Project for the development of a paper for Bormio 2022 Winter School
 
-Title:
+## Title:
 
 > Quantitative description of the wobbling properties in odd-$A$ nuclei through a semi-classical approach
+
+## Event:
+
