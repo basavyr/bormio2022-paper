@@ -5,8 +5,12 @@
 
 * Emphasize the importance of a classical interpretation for a quantal system. 
 * Use the description from Budaca's paper: ![[Pasted image 20211105202529.png]] Namely, the classical methods provides the advantage of keeping close contact with the system's dynamics. ![[Pasted image 20211105202714.png]]
+* Mention the previous work on the semi-classical approach used to describe the wobbling features of odd-A nuclei
 
-Starting from a Particle-Rotor quantal Hamiltonian that is dequantized via the time-dependent variational principle, a set of analytical expressions for the wobbling frequencies, excitation energies, dynamical moments of inertia, and other relevant quantities are obtained. 
+> Starting from a Particle-Rotor quantal Hamiltonian that is dequantized via the time-dependent variational principle, a set of analytical expressions for the wobbling frequencies, excitation energies, dynamical moments of inertia, and other relevant quantities are obtained. 
+
+* Illustrate the total quantal Hamiltonian for a particle + rotor system. The odd particle + triaxial rotor coupling
+* Explain the key aspects of the variational principle. Show the Time-Dependent-Variational-Equation (TDVE).
 
 The unique feature of this current approach is the re-definition of the wobbling band structure that is specific to the collective modes of excitation in triaxial nuclei.
 
