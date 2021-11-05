@@ -11,7 +11,7 @@
 
 * Illustrate the total quantal Hamiltonian for a particle + rotor system. The odd particle + triaxial rotor coupling
 * Explain the key aspects of the variational principle. Show the Time-Dependent-Variational-Equation (TDVE).
-* Step-by-step procedure to obtain the set of classical equations, starting from the initial quantal Hamiltonian
+* Step-by-step procedure to obtain the set of classical equations, starting from the initial quantal Hamiltonian. ![[variationalPrinciple.pdf]]
 
 The unique feature of this current approach is the re-definition of the wobbling band structure that is specific to the collective modes of excitation in triaxial nuclei.
 
