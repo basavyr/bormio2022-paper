@@ -1,0 +1,14 @@
+{
+  "spellcheck": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "attachmentFolderPath": "Resources/obsidian-screenshots",
+  "spellcheckDictionary": [
+    "quantal",
+    "dequantized",
+    "variational",
+    "triaxial",
+    "triaxial"
+  ]
+}

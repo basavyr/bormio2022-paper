@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "e63ec77e4c3a2cd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3713e819e60eb10f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Resources/core-ideas/abstract-breakdown.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "38f288a4fa5a1ad4",
+    "type": "split",
+    "children": [
+      {
+        "id": "12b5e2bfefa0acd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5101afc6988084d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c118c031e545ea9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f5154cf01231314",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fee16c0b0198604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39f5c15d2438c811",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resources/core-ideas/abstract-breakdown.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3713e819e60eb10f",
+  "lastOpenFiles": [
+    "Resources/core-ideas/abstract-breakdown.md"
+  ]
+}
