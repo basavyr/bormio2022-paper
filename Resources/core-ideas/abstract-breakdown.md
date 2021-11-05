@@ -4,7 +4,7 @@
 > The wobbling properties of an odd-$A$ triaxial nucleus are studied within a semi-classical framework. 
 
 * Emphasize the importance of a classical interpretation for a quantal system. 
-* Use the description from Budaca's paper 
+* Use the description from Budaca's paper ![[Pasted image 20211105202529.png]]
 
 Starting from a Particle-Rotor quantal Hamiltonian that is dequantized via the time-dependent variational principle, a set of analytical expressions for the wobbling frequencies, excitation energies, dynamical moments of inertia, and other relevant quantities are obtained. 
 
